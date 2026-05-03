@@ -57,7 +57,9 @@ cd frontend
 npm install
 npm start
 ```
+⚠️ Note
 
+If the frontend folder preview is not visible on GitHub, please clone the repository to access the complete source code.
 ---
 
 ## 📌 Future Improvements
@@ -78,6 +80,7 @@ This project helps students:
 * Study in a more structured and efficient way
 
 ---
+
 
 ## 👨‍💻 Author
 
